@@ -1,12 +1,11 @@
-[GITHUB_PROFILE_README.md](https://github.com/user-attachments/files/34422439/GITHUB_PROFILE_README.md)
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:13B9FD&height=220&section=header&text=Mohammed%20Hedaya&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Senior%20Flutter%20Engineer%20%E2%80%A2%20Mobile%20Architect&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:13B9FD&height=220&section=header&text=Mohammed%20Hedaya&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Application%20Developer&descSize=22&descAlignY=58&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=13B9FD&center=true&vCenter=true&width=650&lines=Senior+Flutter+Engineer+%F0%9F%9A%80;Production+Apps+on+Play+Store+%26+App+Store;HR+%E2%80%A2+Real-Estate+%E2%80%A2+Business+%E2%80%A2+E-Commerce;VoIP+Calls+%E2%80%A2+Screen+Sharing+%E2%80%A2+Payments;Clean+Architecture+%E2%80%A2+BLoC+%E2%80%A2+Odoo+Integration" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=13B9FD&center=true&vCenter=true&width=650&lines=Mobile+Application+Developer+%F0%9F%9A%80;Production+Apps+on+Play+Store+%26+App+Store;HR+%E2%80%A2+Real-Estate+%E2%80%A2+Business+%E2%80%A2+E-Commerce;VoIP+Calls+%E2%80%A2+Screen+Sharing+%E2%80%A2+Payments;Clean+Architecture+%E2%80%A2+BLoC+%E2%80%A2+Odoo+Integration" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,23 +25,14 @@
 
 ## 👨‍💻 About Me
 
-```dart
-class MohammedHedaya extends SeniorEngineer {
-  final role         = 'Senior Flutter Engineer';
-  final location     = 'Egypt 🇪🇬 · Open to remote';
-  final focus        = ['Clean Architecture', 'Scalable State Management', 'Real-time Features'];
-  final shipped      = ['HR & Attendance', 'Real-Estate', 'Business Services', 'E-Commerce'];
-  final integrations = ['Odoo ERP', 'REST APIs', 'Firebase', 'VoIP / WebRTC', 'Payment Gateways'];
+**Mobile Application Developer** based in Egypt 🇪🇬 — I build production apps that ship to real users on **Google Play & App Store**, with clean architecture, solid testing, and smooth UX.
 
-  @override
-  String get status => '🚀 Open to Senior / Lead Mobile roles';
-}
-```
-
-- 💼 **Mobile Engineer at Al Abdaa Tech** — I own Flutter apps end-to-end: architecture → testing → store release on **Google Play & App Store**
-- 🏗️ I design **feature-first, maintainable architectures** (Clean Architecture, BLoC/Cubit) that teams can scale
-- 📞 Built **real-time features** used in production: VoIP voice/video calls, screen sharing, foreground services, live chat
-- 🧪 **Tested code + CI/CD**: unit, widget, and parsing tests with automated build pipelines
+- 💼 **Mobile Engineer at Al Abdaa Tech** — owning Flutter apps end-to-end: architecture → testing → store release
+- 🏗️ Feature-first, maintainable architectures (**Clean Architecture, BLoC/Cubit**) that teams can scale
+- 📞 Real-time features in production: **VoIP voice/video calls, screen sharing, foreground services, live chat**
+- 🔌 Integrations: **Odoo ERP**, REST APIs, Firebase, WebRTC, payment gateways
+- 🧪 Unit, widget & parsing tests + **CI/CD** automated build pipelines
+- 🚀 **Open to Senior / Lead Mobile roles** — remote friendly
 
 ---
 
@@ -151,22 +141,19 @@ class MohammedHedaya extends SeniorEngineer {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammedhedaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhedaya&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedhedaya&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohammedhedaya&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedhedaya&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammedhedaya&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammedhedaya&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammedhedaya&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
 <p align="center">
-  <b>💡 Have a mobile product to build or a team that needs a senior Flutter engineer?</b><br/>
+  <b>💡 Have a mobile product to build or a team that needs a mobile app developer?</b><br/>
   <a href="mailto:muhammedhedaya410@gmail.com">Let's talk →</a>
 </p>
 
