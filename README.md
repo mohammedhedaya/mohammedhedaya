@@ -27,7 +27,7 @@
 
 **Mobile Application Developer** based in Egypt 🇪🇬 — I build production apps that ship to real users on **Google Play & App Store**, with clean architecture, solid testing, and smooth UX.
 
-- 💼 **Mobile Engineer at Al Abdaa Tech** — owning Flutter apps end-to-end: architecture → testing → store release
+- 💼 **Mobile Engineer at CTIT** — owning Flutter apps end-to-end: architecture → testing → store release
 - 🏗️ Feature-first, maintainable architectures (**Clean Architecture, BLoC/Cubit**) that teams can scale
 - 📞 Real-time features in production: **VoIP voice/video calls, screen sharing, foreground services, live chat**
 - 🔌 Integrations: **Odoo ERP**, REST APIs, Firebase, WebRTC, payment gateways
