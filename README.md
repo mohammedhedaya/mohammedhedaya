@@ -113,6 +113,24 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <p align="center">
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/2e/63/6e2e63cb-f93b-db7f-00c6-62802cd05ce6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg" width="90" style="border-radius:20px"/>
+        <h3 align="center">Selection Coffee 🆕</h3>
+      </p>
+      <p align="center"><i>Specialty coffee e-commerce &amp; roastery app</i></p>
+      <p align="center">
+        ☕ Specialty coffee by origin, process &amp; roast level · 🎯 Taste-matched coffee advisor<br/>
+        🛒 Cart, saved addresses &amp; live order tracking · ⭐ Loyalty points &amp; coupons<br/>
+        📦 Wholesale ordering for cafés · 🌐 Full Arabic / English support
+      </p>
+      <p align="center">
+        <a href="https://apps.apple.com/app/selection-coffee/id6832243752"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Google_Play-Coming_Soon-6E6E6E?style=for-the-badge&logo=google-play&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
