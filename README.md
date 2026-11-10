@@ -42,7 +42,7 @@
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/4c/f3/1f4cf3e5-4d70-94b6-ba3a-79136c2932ae/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg" width="90" style="border-radius:20px"/>
+        <img src="assets/icons/ctit-hr.png" width="90"/>
         <h3 align="center">CTIT HR</h3>
       </p>
       <p align="center"><i>Workplace HR & real-time communication platform</i></p>
@@ -60,7 +60,7 @@
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/5c/3a/a55c3a6f-5886-943d-2f4c-c7c3b0550b71/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg" width="90" style="border-radius:20px"/>
+        <img src="assets/icons/rwad-hr.png" width="90"/>
         <h3 align="center">Rwad HR</h3>
       </p>
       <p align="center"><i>Complete employee self-service platform</i></p>
@@ -80,7 +80,7 @@
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/c7/f7/75c7f7a1-b839-f5f8-483c-304d4b21e58e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg" width="90" style="border-radius:20px"/>
+        <img src="assets/icons/azhar.png" width="90"/>
         <h3 align="center">Azhar</h3>
       </p>
       <p align="center"><i>Residential community management</i></p>
@@ -97,7 +97,7 @@
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/e6/7d/35e67df5-7c4a-9676-b305-8ced67802080/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg" width="90" style="border-radius:20px"/>
+        <img src="assets/icons/osb.png" width="90"/>
         <h3 align="center">OSB · One Stop Business</h3>
       </p>
       <p align="center"><i>All business services in one platform</i></p>
@@ -116,7 +116,7 @@
   <tr>
     <td colspan="2" valign="top">
       <p align="center">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/2e/63/6e2e63cb-f93b-db7f-00c6-62802cd05ce6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg" width="90" style="border-radius:20px"/>
+        <img src="assets/icons/selection-coffee.png" width="90"/>
         <h3 align="center">Selection Coffee 🆕</h3>
       </p>
       <p align="center"><i>Specialty coffee e-commerce &amp; roastery app</i></p>
