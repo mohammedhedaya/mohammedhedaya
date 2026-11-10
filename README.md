@@ -223,10 +223,6 @@ Unit, widget & parsing tests backed by **CI/CD** build pipelines — from pull r
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammedhedaya&theme=tokyonight" width="49%" alt="Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedhedaya&bg_color=1a1b27&color=13B9FD&line=0175C2&point=ffffff&area=true&area_color=13B9FD&hide_border=true&radius=8" width="100%" alt="Activity graph"/>
-</p>
-
 <!-- Contribution snake (generated daily by .github/workflows/snake.yml) -->
 <p align="center">
   <picture>
